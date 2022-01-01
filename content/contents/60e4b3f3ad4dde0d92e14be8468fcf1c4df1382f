@@ -1,0 +1,6 @@
+{"animationName": "Water1","animationName": "Water2","animationName": "Water3","animationName": "Water4","animationName": "Water5","animationName": "Water6","animationName": "Water6.001","animationName": "Water1.001","animationName": "Water3.001","animationName": "Water1.002","animationName": "Water6.002","animationName": "Water3.002","animationName": "Water1.003","animationName": "Water1.004","animationName": "Water3.003","animationName": "Water1.007","animationName": "Water1.006","animationName": "Holo.1","animationName": "Holo.3","animationName": "Helice","animationName": "Fullwater","animationName": "RDChelice1","animationName": "RDChelice1.001","animationName": "RDChelice1.002","animationName": "RDChelice1.003","animationName": "Logo1"}
+
+declare module "*.json" {
+  const value: any;
+  export default value;
+}
